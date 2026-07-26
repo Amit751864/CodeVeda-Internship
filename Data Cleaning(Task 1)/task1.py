@@ -21,7 +21,7 @@ print(df['State'].describe()) # count     2666
 # unique      51
 # top         WV
 # freq        88
-#day 5 data vizualistion aaj hum matplotlib use karge
+
 
 
 
